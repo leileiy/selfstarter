@@ -7,22 +7,22 @@
 
 # Set your project goal here - dollar amount
 # NOTE: if you manually want to adjust your progress to test the site, head over to the Order model (app/models/order.rb)
-project_goal: 100000
+project_goal: 20000
 
 # If you want to edit the FAQ, head over to app/views/preorder/homepage/_faqs.html.erb
 
 # This'll be both the page title (<title></title>) and the name in the header
-product_name: "Selfstarter"
+product_name: "KIM LED DESKLAMP"
 
 # This will be used in sentences like Hooray You've just reserved product_description
-product_description: "a set of widgets"
+product_description: "furtristic LED desklamp"
 
 # An image showcasing your product -- it'll show up when you pin your product
 # It should be in app/assets/images
-product_image_path: "my-product-image.png"
+product_image_path: "KIM2 LED DL Black.png"
 
 # The message on the preorder page, Lockitron's is ""
-value_proposition: "Roll your own crowdfunding"
+value_proposition: "An energy efficient, furtristic LED Desklamp that will evolve over time."
 
 # YouTube or Vimeo Video URL (The embed URL, without the query string options)
 video_embed_url: "https://www.youtube.com/v/D1L3o88GKew"
@@ -40,7 +40,7 @@ use_video_placeholder: true
 # To find your access key and secret key, head over to here --> http://bit.ly/R4I4ky (Follow that guide in the Seller Central page)
 amazon_access_key: "YOUR_AMAZON_ACCESS_KEY"
 amazon_secret_key: "YOUR_AMAZON_SECRET_KEY"
-price: 	19.95
+price: 	149.95
 
 # if use_payment_options is set to true, then a set of radio buttons will be displayed with various payment options.
 # There is a PaymentOption model for storing info about payment options.  To set up your payment options you should
@@ -72,16 +72,16 @@ progress_text: "Implemented"
 
 # Call to action section
 
-# On Lockitron, it's "First Batch Ships in March 2013"
-ships: "Ships...sometime"
+# On Lockitron, it's "First Batch Ships in May 2013"
+ships: "Shipping Septemberw 2013"
 
 # On Lockitron, it's "Reserve Now"
 call_to_action: "Reserve Now"
 # On Lockitron, this is "Only $149 for a limited time"
-price_human: "It costs money!"
+price_human: "Only $149 for a limited time!"
 
 # The paragraph below the price. You'd probably say something about how you're not going to charge them before it ships (so it's less risky).
-dont_give_them_a_reason_to_say_no: "You'll get this exact site. All you'll need to get started is a great product."
+dont_give_them_a_reason_to_say_no: "You will not be charged before unless the project reaches full funding."
 
 # Social Stuff
 facebook_app_id: "1234567890"
