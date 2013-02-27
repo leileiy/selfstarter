@@ -72,7 +72,6 @@ We recommend using Heroku, and we even include a ```Procfile``` for you. All you
 
 ```bash
 heroku create
-git push heroku master
 heroku run rake db:migrate
 heroku open
 ```
